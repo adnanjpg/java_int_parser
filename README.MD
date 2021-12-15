@@ -1,0 +1,2 @@
+this project is an implementatoion of a method that parses a string to integer without using Integer.parseInt(.
+you may fell like this is pointless, but for example in some college courses they'd require students to not use any library.
